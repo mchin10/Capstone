@@ -1,0 +1,19 @@
+
+pandas
+streamlit
+youtube-transcript-api
+yt-dlp
+openai
+langchain
+langchain-community
+pydub
+torch
+torchaudio
+transformers
+NumPy<1.27.0
+ipykernel
+soundfile
+tiktoken
+ipywidgets
+faiss-cpu
+# if using Anaconda, you must install conda install libsndfile directly via conda; uncomment in the notebook to run the installation.
